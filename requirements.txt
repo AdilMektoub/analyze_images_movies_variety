@@ -1,0 +1,6 @@
+pandas==0.25.0
+NumPy==1.16.4
+Matplotlib==3.0.3
+skikit-learn==0.19.1
+CatBoost==0.18.1
+SHAP==0.28.3
